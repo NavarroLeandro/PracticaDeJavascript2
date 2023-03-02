@@ -6,4 +6,4 @@ for(let i=0; i<texto.length; i++) {
     str += "-";
   }
 }
-console.log(str);
+document.write(str);

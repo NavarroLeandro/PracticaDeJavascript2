@@ -1,2 +1,2 @@
 let texto = prompt("Introduce un texto: ");
-console.log(texto.toUpperCase());
+document.write(texto.toUpperCase());

@@ -7,6 +7,6 @@ for(let i=1; i<=rows; i++) {
     str += num + "\t";
     num--;
   }
-  str += "\n";
+  str += "\n" + "<br>";
 }
-console.log(str);
+document.write(str);
