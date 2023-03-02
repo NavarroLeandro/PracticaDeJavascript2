@@ -2,7 +2,7 @@
 
 ![Javascript](./img/JavaScript-logo.png)
 
-En este repositorio encontraran la practica hecha con Javascript del curso de **Rolling Code School**. Son libres de ver y clonar el repositorio para aprender junto a nosotros.
+En este repositorio encontraran la practica hecha con Javascript del curso de **Rolling Code School** correspondiente a la **segunda parte practica**. Son libres de ver y clonar el repositorio para aprender junto a nosotros.
 
 >## Integrante del proyecto
 - Navarro Leandro [GitHub](https://github.com/NavarroLeandro)
