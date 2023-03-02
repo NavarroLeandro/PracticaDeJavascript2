@@ -6,4 +6,4 @@ for(let i=1; i<=3; i++) {
 }
 let maxEdad = Math.max(...edades);
 let index = edades.indexOf(maxEdad);
-console.log(`${nombres[index]} es el mayor con ${maxEdad} años.`);
+document.write(`${nombres[index]} es el mayor con ${maxEdad} años.`);
